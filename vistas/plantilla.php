@@ -12,7 +12,6 @@
 <body>
 
 <div id="contenedor">
-
     <header>
         <nav class="navbar fixed-top navbar-expand-xl bg-secondary navbar-dark">
             <div class="container">
@@ -51,9 +50,9 @@
                 }
         ?>
     </section>
+</div>
 
-
-    <section>
+<section>
     <div class="container mt-5">
         <h2 class= "mt-5">TÍTULO</h2>
         <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi sapiente illum impedit facilis vel magnam itaque sit asperiores dignissimos? Cum error, corrupti odit aliquid quam et. Dolorem atque earum totam!</P>
@@ -77,8 +76,7 @@
 
         </div>
     </div>
-    </section>
+</section>
 
-</div>
 </body>
 </html>
