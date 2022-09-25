@@ -1,3 +1,9 @@
 body{
-    background-color: aqua;
+    background-color:aquamarine;
 }
+
+.miicono{
+    font-size: 100px;
+    color: gray;
+    text-align: center;
+    }

@@ -51,5 +51,33 @@
     </section>
 </div>
 
+<section>
+    <div class="container mt-5">
+        <h2 class= "mt-5">TÍTULO DOS</h2>
+        <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi sapiente illum impedit facilis vel magnam itaque sit asperiores dignissimos? Cum error, corrupti odit aliquid quam et. Dolorem atque earum totam!</P>
+        <div class="row">
+
+            <div class="col-lg-4 text-center">
+                <i class="bi bi-balloon-heart miicono"></i> 
+                <h4>ICONO 1</h4>
+                <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, ducimus maxime? Ut distinctio repellendus at, enim perferendis mollitia porro architecto beatae iusto fugiat, non laboriosam eveniet dicta omnis quo quis!</P>
+            </div>
+            <div class="col-lg-4 text-center">
+                <i class="bi bi-boombox miicono"></i>
+                <h4>ICONO 2</h4>
+                <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, ducimus maxime? Ut distinctio repellendus at, enim perferendis mollitia porro architecto beatae iusto fugiat, non laboriosam eveniet dicta omnis quo quis!</P>
+            </div>
+            <div class="col-lg-4 text-center">
+                <i class="bi bi-bug-fill miicono"></i>
+                <h4>ICONO 2</h4>
+                <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, ducimus maxime? Ut distinctio repellendus at, enim perferendis mollitia porro architecto beatae iusto fugiat, non laboriosam eveniet dicta omnis quo quis!</P>
+            </div>           
+
+        </div>
+
+    </div>
+</section>
+
+
 </body>
 </html>

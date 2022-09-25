@@ -7,6 +7,6 @@
     <title>INGRESO</title>
 </head>
 <body>
-    
+    <h1>INGRESO</h1>
 </body>
 </html>
