@@ -13,23 +13,25 @@
 
 <div id="contenedor">
 
-    <nav class="navbar fixed-top navbar-expand-xl bg-secondary navbar-dark">
-        <div class="container">
-            <a class="navbar-brand" href="">LOGO</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarAbre">
+    <header>
+        <nav class="navbar fixed-top navbar-expand-xl bg-secondary navbar-dark">
+            <div class="container">
+                <a class="navbar-brand" href="">LOGO</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarAbre">
                 <span class="navbar-toggler-icon">
                 </span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarAbre">      
-                <div class="navbar-nav">
-                <a  class="nav-item nav-link active" href="index.php?ruta=inicio">INICIO</a>
-                <a class="nav-item nav-link" href="index.php?ruta=ingreso">INGRESO</a>
-                <a class="nav-item nav-link" href="index.php?ruta=contacto">CONTACTO</a>
-                <a class="nav-item nav-link" href="index.php?ruta=salir">SALIR</a>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarAbre">      
+                    <div class="navbar-nav">
+                    <a  class="nav-item nav-link active" href="index.php?ruta=inicio">INICIO</a>
+                    <a class="nav-item nav-link" href="index.php?ruta=ingreso">INGRESO</a>
+                    <a class="nav-item nav-link" href="index.php?ruta=contacto">CONTACTO</a>
+                    <a class="nav-item nav-link" href="index.php?ruta=salir">SALIR</a>
+                    </div>
                 </div>
-            </div>
-         </div>
-    </nav>
+             </div>
+        </nav>
+    </header>   
 
     <section id="contenido">
         <?php
@@ -49,11 +51,11 @@
                 }
         ?>
     </section>
-</div>
 
-<section>
+
+    <section>
     <div class="container mt-5">
-        <h2 class= "mt-5">TÍTULO DOS</h2>
+        <h2 class= "mt-5">TÍTULO</h2>
         <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi sapiente illum impedit facilis vel magnam itaque sit asperiores dignissimos? Cum error, corrupti odit aliquid quam et. Dolorem atque earum totam!</P>
         <div class="row">
 
@@ -74,10 +76,9 @@
             </div>           
 
         </div>
-
     </div>
-</section>
+    </section>
 
-
+</div>
 </body>
 </html>
