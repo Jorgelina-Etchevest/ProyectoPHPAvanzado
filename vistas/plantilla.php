@@ -13,7 +13,7 @@
 
 <div id="contenedor">
 
-    <nav class="navbar navbar-expand-xl bg-secondary navbar-dark">
+    <nav class="navbar fixed-top navbar-expand-xl bg-secondary navbar-dark">
         <div class="container">
             <a class="navbar-brand" href="">LOGO</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarAbre">
@@ -51,6 +51,5 @@
     </section>
 </div>
 
-    
 </body>
 </html>
